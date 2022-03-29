@@ -1,2 +1,4 @@
-# resume
-Resume Access 👔 
+# Resume Access 👔 
+
+- [LinkedIn](./linkedin.pdf)
+- [Overleaf](./overleaf.pdf)
