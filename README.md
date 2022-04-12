@@ -1,5 +1,5 @@
 # Resume Access 👔
 
-- [LinkedIn](./linkedin.pdf)
+- [LinkedIn](./in.pdf)
 - [Old](./old.pdf)
 - [Dev](./dev.pdf)
