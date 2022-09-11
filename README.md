@@ -1,5 +1,11 @@
-# Resume Access 👔
+# Milind Mishra's Resume
 
-- [`Developer Resume`](./dev.pdf)
-- [`LinkedIn Generated`](./in.pdf)
+```text
+.
+├── Milind_Mishra_Resume.pdf
+├── README.md
+├── dev.pdf
+└── in.pdf
 
+0 directories, 4 files
+```
